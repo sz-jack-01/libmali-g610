@@ -12,3 +12,4 @@
 TAGS
 *\.a
 debian/libmali-*
+!/firmware/g610/mali_csffw.bin
